@@ -1,5 +1,6 @@
+@charset "UTF-8";
 
-.body {
+body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -7,29 +8,29 @@
     background-color: #f4f4f4;
 }
 
-.header {
+header {
     background: #333;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
 }
 
-.nav ul {
+nav ul {
     list-style-type: none;
     padding: 0;
 }
 
-.nav ul li {
+nav ul li {
     display: inline;
     margin-right: 1rem;
 }
 
-.nav ul li a {
+nav ul li a {
     color: #fff;
     text-decoration: none;
 }
 
-.footer {
+footer {
     text-align: center;
     padding: 3rem;
     background: #333;
@@ -49,3 +50,5 @@
         margin: 0.5rem 0;
     }
 }
+
+
